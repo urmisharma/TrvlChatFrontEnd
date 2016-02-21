@@ -1,0 +1,26 @@
+.navbar-brand > img,
+{
+	width: 20%
+	height: 30%
+}
+
+logo
+{
+
+
+    margin: 100px 50px;
+
+
+}
+
+
+body
+{
+	background-color: #B5B1B1;
+}
+.col-md-6{
+    -moz-box-shadow: 0 0 2px black;
+    -webkit-box-shadow: 0 0 2px black;
+    box-shadow: 0 0 2px black;
+    background-color: white;
+}
